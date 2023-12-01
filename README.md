@@ -1,2 +1,2 @@
-# pasakomik.github.io
+# pasarkomik.github.io
 Pasar Komik
